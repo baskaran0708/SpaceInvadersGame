@@ -1,41 +1,35 @@
-\# Space Invaders Game 🎮
+# Space Invaders – C++ / Raylib
 
-<img width="806" height="791" alt="image" src="https://github.com/user-attachments/assets/64f34580-5e2a-4829-b7bb-894b4f2295c2" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64f34580-5e2a-4829-b7bb-894b4f2295c2" width="550"/>
+</p>
 
+A classic **Space Invaders–style arcade game** developed in **C++ using the Raylib graphics library** and **Visual Studio Community Edition**.  
+This project demonstrates real-time rendering, input handling, collision detection, and basic game architecture in modern C++.
 
-A simple Space Invaders clone built in \*\*C++ with Visual Studio Community\*\*.
+---
 
+## Key Features
 
+- Enemy alien formations with movement patterns  
+- Player laser shooting and collision detection  
+- Defensive obstacles with damage states  
+- Mystery ship bonus mechanic  
+- Score tracking with **High Score Persistence**  
+- Custom graphics, fonts, and sound effects  
+- Smooth keyboard input and frame-based animation
 
-\## Features
+---
 
-\- Aliens, lasers, obstacles, and mystery ship
+## Tech Stack
 
-\- High score tracking
+| Component | Technology |
+|--------|------------|
+| Language | C++ |
+| Graphics / Audio | **Raylib** |
+| IDE | Visual Studio Community |
+| Platform | Windows (x64) |
 
-\- Custom graphics and sounds
+---
 
-
-
-\## How to Run
-
-1\. Clone the repository
-
-2\. Open `ConsoleApplication1.sln` in Visual Studio
-
-3\. Build and run the project
-
-
-
-\## Assets
-
-\- Fonts in `/Font`
-
-\- Graphics in `/Graphics`
-
-\- Sounds in `/Sounds`
-
-
-
-Enjoy blasting aliens 
 
