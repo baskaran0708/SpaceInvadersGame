@@ -1,0 +1,19 @@
+ECHO is on.
+# Ignore build directories
+bin/
+obj/
+x64/
+
+# Ignore Visual Studio user-specific files
+*.user
+*.suo
+*.vcxproj.filters
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Keep assets (Fonts, Graphics, Sounds)
+!Font/
+!Graphics/
+!Sounds/
