@@ -13,6 +13,7 @@ Game::Game()
 Game::~Game() {
 	Alien::UnloadImages();
 	UnloadMusicStream(music);
+	//sample
 	UnloadSound(explosionSound);
 }
 
