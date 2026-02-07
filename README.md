@@ -1,5 +1,6 @@
 \# Space Invaders Game 🎮
 
+<img width="806" height="791" alt="image" src="https://github.com/user-attachments/assets/64f34580-5e2a-4829-b7bb-894b4f2295c2" />
 
 
 A simple Space Invaders clone built in \*\*C++ with Visual Studio Community\*\*.
